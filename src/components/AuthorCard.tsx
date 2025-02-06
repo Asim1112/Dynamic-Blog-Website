@@ -29,9 +29,9 @@ const AuthorCard = () => {
         applications, Asim has successfully completed multiple Hackathons,
         showcasing his ability to transform UI/UX concepts into fully functional
         digital platforms. In addition to his technical pursuits, Asim holds a
-        Master's degree in International Relations, reflecting his diverse
-        academic background. He also runs a YouTube channel, "Innovate with
-        Asim," where he shares educational content to help aspiring developers
+        Master&apos;s degree in International Relations, reflecting his diverse
+        academic background. He also runs a YouTube channel, &quot;Innovate with
+        Asim,&quot; where he shares educational content to help aspiring developers
         and students. With a keen eye for detail, a passion for innovation, and
         a drive to solve real-world challenges, Asim continues to push
         boundaries in the digital space.

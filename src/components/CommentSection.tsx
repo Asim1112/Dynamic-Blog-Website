@@ -15,7 +15,7 @@ interface CommentSectionProps {
 
 
 
-const CommentSection = ({ postId }: CommentSectionProps) => {
+const CommentSection = ({}: CommentSectionProps) => {
   const [comment, setComment] = useState<Comment[]>([]);
   const [newComment, setNewComment] = useState("");
   const [authorName, setAuthorName] = useState("");

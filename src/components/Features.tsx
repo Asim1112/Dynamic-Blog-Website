@@ -9,7 +9,7 @@ const Features = () => {
         </h2>
 
         <p className='text-center m-4 mt-4 text-sm text-black sm:text-base md:mb-12 lg:mb-16 animate-fade-in-up delay-100 md:text-lg'>
-          Asim Hussain is a dedicated learner and passionate web developer currently advancing his skills in Next.js at GIAIC. With a strong foundation in TypeScript and expertise in UI/UX design, he has successfully built and deployed multiple projects, including a dynamic resume builder and a portfolio website. Asim thrives on challenges, as seen in his active participation in Hackathons, where he has tackled complex marketplace models and E-Commerce solutions. His commitment to continuous learning extends to exploring Sanity CMS and mastering responsive design with Tailwind CSS. Beyond coding, Asim, a master's degree holder in International Relations, also contributes to education as a Headmaster, demonstrating his leadership and adaptability. His enthusiasm for technology and innovation is further reflected in his YouTube channel, Innovate with Asim, where he shares valuable insights to help fellow learners.
+          Asim Hussain is a dedicated learner and passionate web developer currently advancing his skills in Next.js at GIAIC. With a strong foundation in TypeScript and expertise in UI/UX design, he has successfully built and deployed multiple projects, including a dynamic resume builder and a portfolio website. Asim thrives on challenges, as seen in his active participation in Hackathons, where he has tackled complex marketplace models and E-Commerce solutions. His commitment to continuous learning extends to exploring Sanity CMS and mastering responsive design with Tailwind CSS. Beyond coding, Asim, a master&apos;s degree holder in International Relations, also contributes to education as a Headmaster, demonstrating his leadership and adaptability. His enthusiasm for technology and innovation is further reflected in his YouTube channel, Innovate with Asim, where he shares valuable insights to help fellow learners.
         </p>
 
         <div className='mx-auto max-w-7xl px-5'>
@@ -39,7 +39,7 @@ const Features = () => {
         </div>
 
         <p className='text-sm md:text-lg text-black mb-6 px-4 animate-fade-in-down delay-100 mt-100'>
-          Welcome to our blog website! Here, you'll find a diverse collection of engaging and insightful articles, each paired with captivating images to enhance your reading experience. Whether you're exploring technology, lifestyle, education, or creative topics, there's something for everyone. Take your time, browse through the blogs, and discover new ideas and perspectives. Happy reading!
+          Welcome to our blog website! Here, you&apos;ll find a diverse collection of engaging and insightful articles, each paired with captivating images to enhance your reading experience. Whether you&apos;re exploring technology, lifestyle, education, or creative topics, there&apos;s something for everyone. Take your time, browse through the blogs, and discover new ideas and perspectives. Happy reading!
         </p>
       </section>
     </div>
